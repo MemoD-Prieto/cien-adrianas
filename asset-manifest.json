@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/your-repo-name/static/css/main.40e6a8ee.css",
+    "main.js": "/your-repo-name/static/js/main.fd34b2f6.js",
+    "static/js/453.7f0f26a5.chunk.js": "/your-repo-name/static/js/453.7f0f26a5.chunk.js",
+    "static/media/100Dijeron.png": "/your-repo-name/static/media/100Dijeron.363206f97864deeee442.png",
+    "static/media/X.png": "/your-repo-name/static/media/X.8f340aae59727bcd9015.png",
+    "index.html": "/your-repo-name/index.html",
+    "main.40e6a8ee.css.map": "/your-repo-name/static/css/main.40e6a8ee.css.map",
+    "main.fd34b2f6.js.map": "/your-repo-name/static/js/main.fd34b2f6.js.map",
+    "453.7f0f26a5.chunk.js.map": "/your-repo-name/static/js/453.7f0f26a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e6a8ee.css",
+    "static/js/main.fd34b2f6.js"
+  ]
+}

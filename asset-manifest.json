@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cien-adrianas/static/css/main.40e6a8ee.css",
-    "main.js": "/cien-adrianas/static/js/main.65614879.js",
-    "static/js/453.7f0f26a5.chunk.js": "/cien-adrianas/static/js/453.7f0f26a5.chunk.js",
-    "static/media/100Dijeron.png": "/cien-adrianas/static/media/100Dijeron.363206f97864deeee442.png",
-    "static/media/X.png": "/cien-adrianas/static/media/X.8f340aae59727bcd9015.png",
-    "index.html": "/cien-adrianas/index.html",
-    "main.40e6a8ee.css.map": "/cien-adrianas/static/css/main.40e6a8ee.css.map",
-    "main.65614879.js.map": "/cien-adrianas/static/js/main.65614879.js.map",
-    "453.7f0f26a5.chunk.js.map": "/cien-adrianas/static/js/453.7f0f26a5.chunk.js.map"
+    "main.css": "/your-repo-name/static/css/main.37d46208.css",
+    "main.js": "/your-repo-name/static/js/main.9d96a9bc.js",
+    "static/js/453.7f0f26a5.chunk.js": "/your-repo-name/static/js/453.7f0f26a5.chunk.js",
+    "static/media/100Dijeron.png": "/your-repo-name/static/media/100Dijeron.363206f97864deeee442.png",
+    "static/media/X.png": "/your-repo-name/static/media/X.8f340aae59727bcd9015.png",
+    "index.html": "/your-repo-name/index.html",
+    "main.37d46208.css.map": "/your-repo-name/static/css/main.37d46208.css.map",
+    "main.9d96a9bc.js.map": "/your-repo-name/static/js/main.9d96a9bc.js.map",
+    "453.7f0f26a5.chunk.js.map": "/your-repo-name/static/js/453.7f0f26a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40e6a8ee.css",
-    "static/js/main.65614879.js"
+    "static/css/main.37d46208.css",
+    "static/js/main.9d96a9bc.js"
   ]
 }
